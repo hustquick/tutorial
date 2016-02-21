@@ -1,3 +1,12 @@
 This is a file created for demenstration.
 Add a line to make commit 1.
 Make a more commit.
+<<<<<<< HEAD
+commit ed489
+commit da985.
+commit ed489.
+Add a new branch.
+commit 3310
+=======
+Add a new branch.
+>>>>>>> 1776fcd... commit 2eecb
