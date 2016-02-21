@@ -2,6 +2,7 @@ This is a file created for demenstration.
 Add a line to make commit 1.
 Make a more commit.
 <<<<<<< HEAD
+<<<<<<< HEAD
 commit ed489
 commit da985.
 commit ed489.
@@ -10,3 +11,8 @@ commit 3310
 =======
 Add a new branch.
 >>>>>>> 1776fcd... commit 2eecb
+=======
+This is brandly new commit.
+3rd commit.
+commit ed489.
+>>>>>>> 44d30be... commit c10b9
