@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is file1. First line.
+=======
+This is the new file.
+
+>>>>>>> 2fd37e8... new commit after detached HEAD
