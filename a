@@ -1,2 +1,7 @@
 File a
+<<<<<<< HEAD
 add messages in file a
+=======
+add something to create a new branch from master
+>>>>>>> branch1
+This is good because I have proved savepoint to be a good method.
