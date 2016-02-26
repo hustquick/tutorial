@@ -1,2 +1,6 @@
 File a
+<<<<<<< HEAD
 add something to create a new branch from master
+=======
+add messages in file a
+>>>>>>> new_feature
